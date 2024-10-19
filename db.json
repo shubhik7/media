@@ -1,0 +1,175 @@
+{
+  "users": [
+    {
+      "id": "6",
+      "name": "Myra"
+    },
+    {
+      "id": "bbf2",
+      "name": "Jasmine Toy"
+    },
+    {
+      "id": "85ad",
+      "name": "Allen Morar"
+    },
+    {
+      "id": "c2bb",
+      "name": "Leticia Gibson"
+    },
+    {
+      "id": "7fa3",
+      "name": "Lila Auer"
+    },
+    {
+      "id": "2d06",
+      "name": "Gilbert Bartell"
+    },
+    {
+      "id": "46b6",
+      "name": "Marilyn Swaniawski"
+    },
+    {
+      "id": "0fa3",
+      "name": "Mae Heidenreich II"
+    }
+  ],
+  "albums": [
+    {
+      "id": "1533",
+      "userId": "85ad",
+      "title": "Electronic Steel Chicken"
+    },
+    {
+      "id": "5595",
+      "userId": "c618",
+      "title": "Generic Frozen Bacon"
+    },
+    {
+      "id": "3d2b",
+      "userId": "1e5d",
+      "title": "Ergonomic Frozen Gloves"
+    },
+    {
+      "id": "b0b0",
+      "userId": "c618",
+      "title": "Gorgeous Soft Gloves"
+    },
+    {
+      "id": "95a5",
+      "userId": "1cab",
+      "title": "Tasty Rubber Bike"
+    },
+    {
+      "id": "9bd8",
+      "userId": "bbf2",
+      "title": "Gorgeous Rubber Shoes"
+    },
+    {
+      "id": "09e2",
+      "userId": "85ad",
+      "title": "Bespoke Cotton Bacon"
+    },
+    {
+      "id": "3116",
+      "userId": "c2bb",
+      "title": "Refined Frozen Computer"
+    },
+    {
+      "id": "4362",
+      "userId": "85ad",
+      "title": "Ergonomic Bronze Sausages"
+    },
+    {
+      "id": "a05f",
+      "userId": "6",
+      "title": "Sleek Bronze Shoes"
+    },
+    {
+      "id": "6867",
+      "userId": "2d06",
+      "title": "Elegant Plastic Computer"
+    },
+    {
+      "id": "96cd",
+      "userId": "6",
+      "title": "Ergonomic Granite Keyboard"
+    },
+    {
+      "id": "a4a4",
+      "userId": "6",
+      "title": "Intelligent Rubber Keyboard"
+    }
+  ],
+  "photos": [
+    {
+      "id": "264a",
+      "albumId": "a05f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=69824"
+    },
+    {
+      "id": "1ae0",
+      "albumId": "a05f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=97525"
+    },
+    {
+      "id": "ce5b",
+      "albumId": "a05f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=40327"
+    },
+    {
+      "id": "da89",
+      "albumId": "a05f",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57299"
+    },
+    {
+      "id": "3e52",
+      "albumId": "9bd8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=14512"
+    },
+    {
+      "id": "b669",
+      "albumId": "9bd8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=98022"
+    },
+    {
+      "id": "0128",
+      "albumId": "9bd8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=58515"
+    },
+    {
+      "id": "f21f",
+      "albumId": "1533",
+      "url": "https://loremflickr.com/150/150/abstract?lock=43189"
+    },
+    {
+      "id": "ce8f",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57434"
+    },
+    {
+      "id": "6425",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=94432"
+    },
+    {
+      "id": "3a70",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=51174"
+    },
+    {
+      "id": "f302",
+      "albumId": "6867",
+      "url": "https://loremflickr.com/150/150/abstract?lock=49907"
+    },
+    {
+      "id": "e15f",
+      "albumId": "9bd8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=21802"
+    },
+    {
+      "id": "f6e3",
+      "albumId": "9bd8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57184"
+    }
+  ]
+}
